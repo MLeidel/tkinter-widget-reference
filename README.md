@@ -1,7 +1,7 @@
-# tkinter-widget-reference
-GUI quick ref for tkinter widget option key=value pairs
 
 ## tkinter Widget Options Reference
+
+GUI quick ref for tkinter widget option key=value pairs
 
 ![tkeys1](images/tkeys1.png "tkeys image 1")
 
